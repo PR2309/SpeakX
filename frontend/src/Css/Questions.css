@@ -1,0 +1,32 @@
+.ques-page {
+    display: flex;
+    flex-direction:row;
+    gap: 1rem;
+    width: 95vw;
+    min-height: 99vh;
+    /* padding: 1rem; */
+}
+.ques-page>section>button{
+    border-radius: 100%;
+    border:none;
+    background-color: inherit;
+
+}
+.question-menu {
+    width: 30vw;
+    height: 90vh;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.question-result {
+    flex-grow: 1;
+    width:60vw;
+    height: 90vh;
+    background-color: #ffa30585;
+    color:black;
+    padding: 1rem;
+    border-radius: 10px; /* Optional for rounded corners */
+}

@@ -1,0 +1,40 @@
+{
+    "short_name": "Horizon Infotech",
+    "name": "Horizon Infotech Ecommerce and Services",
+    "description": "Horizon Infotech is your one-stop destination for high-quality electrical appliances and expert technology services. We offer a wide range of innovative solutions from home appliances to professional services like CCTV installation.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0c0f16",
+    "theme_color": "#3c4d5c",
+    "orientation": "landscape",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/screenshots/screenshot1.png",
+        "sizes": "1280x720",
+        "type": "image/png"
+      },
+      {
+        "src": "/screenshots/screenshot2.png",
+        "sizes": "1280x720",
+        "type": "image/png"
+      }
+    ]
+  }
+  
